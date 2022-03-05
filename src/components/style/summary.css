@@ -1,0 +1,24 @@
+.summary{
+    margin-left: 10px;
+    margin-bottom: 300px;
+}
+.summary__title{
+    font-weight: 500;
+    padding: 10px;
+}
+.summary__headings{
+    display: flex;
+    background-color: #212628;
+    color: #fff;
+    padding: 10px;
+    
+}
+.summary__value{
+    display: flex;
+    padding: 30px;
+}
+.summary__final{
+    border: 1px solid #e0e0e0;
+    display: flex;
+    padding: 10px;
+}

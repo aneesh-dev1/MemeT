@@ -1,0 +1,76 @@
+
+
+
+
+
+
+
+
+.invoice {
+    width: 1130px;
+    height: 150px;
+    margin: 0 0 15px;
+    padding: 34px 99px 34px 35px;
+    background-color: #212628;
+    display: flex;
+    justify-content: space-between;
+    
+    
+  }
+  .invoice__left{
+   display: flex;
+   width: 50%;
+  }
+  
+  .memet__logo {
+    width: 275px;
+    object-fit: contain;
+  }
+  .left__memeT{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .left__add{
+    display: flex;
+    flex-direction: column;
+  }
+  .left__add__head{
+    width: 226px;
+    height: 62px;
+    margin-top: 10px;
+    margin-bottom: -15px;
+    font-family: Helvetica;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.17;
+    letter-spacing: normal;
+    text-align: left;
+    color: #fff;
+  }
+  .left__add__body{
+    width: 640px;
+    
+    font-family: Helvetica;
+    font-size: 13px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.17;
+    letter-spacing: normal;
+    text-align: left;
+    color: #fff;
+  }
+  .invoice__right{
+  
+  }
+  .right__rlogo{
+    width: 250px;
+    justify-content: flex-end;
+   
+    object-fit: contain;
+    opacity: 0.8;
+  }
+  
